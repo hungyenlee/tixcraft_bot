@@ -1,3 +1,4 @@
+.python-version
 __pycache__
 webdriver/chromedriver.exe
 MAXBOT_LAST_URL.txt
