@@ -1,4 +1,6 @@
 .python-version
 __pycache__
-webdriver/chromedriver.exe
+webdriver/chromedriver*
 MAXBOT_LAST_URL.txt
+webdriver/Maxblockplus_1.0.0/data/settings.json
+webdriver/Maxbotplus_1.0.0/data/settings.json
