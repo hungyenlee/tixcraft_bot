@@ -21,7 +21,7 @@
         "mode": "from top to bottom",
         "area_keyword": "\"113\",\"112\",\"114\",\"111\",\"115\",\"110\",\"116\",\"116\",\"5880\",\"5,880\",\"4880\",\"4,880\",\"3880\",\"3,880\",\"3280\",\"3,280\",\"\""
     },
-    "keyword_exclude": "\"\u8f2a\u6905\",\"\u8eab\u969c\",\"\u8eab\u5fc3 \u969c\u7919\",\"Restricted View\",\"\u71c8\u67f1\u906e\u853d\",\"\u8996\u7dda\u4e0d\u5b8c\u6574\",\"C\",\"A1\",\"A6\",\"B1\",\"B6\"",
+    "keyword_exclude": "\"\u8f2a\u6905\",\"\u8eab\u969c\",\"\u8eab\u5fc3 \u969c\u7919\",\"Restricted View\",\"\u71c8\u67f1\u906e\u853d\",\"\u8996\u7dda\u4e0d\u5b8c\u6574\",\"C4\",\"C3\",\"C2\",\"C1\",\"A1\",\"A6\",\"B1\",\"B6\"",
     "kktix": {
         "auto_press_next_step_button": true,
         "auto_fill_ticket_number": true,
